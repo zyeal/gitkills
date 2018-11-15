@@ -2,8 +2,6 @@ create a branch is very quikly!
 branch easy study!
 branch study!
 today is not a good day,is raining outside now!
-<<<<<<< HEAD
 but we will still study very hard!
-=======
 now listen to me!
->>>>>>> dev
+
